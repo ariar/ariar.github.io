@@ -1,9 +1,8 @@
 body {
-  background-color: #212529;
+  background-color: #000;
 }
 
 .container {
-  /* background-color: #343a40; */
   width: 50%;
   position: absolute;
   top: 50%;
@@ -22,7 +21,7 @@ img {
 }
 
 p {
-  color: #e9ecef;
+  color: #fff;
   font-family: "Fira Mono", sans-serif;
   /* font-weight: bold; */
   text-align: center;
