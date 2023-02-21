@@ -14,3 +14,7 @@ h3 {
   top: 50%;
   width: 100%;
 }
+
+h3:hover {
+  font-size: 1.6rem;
+}
